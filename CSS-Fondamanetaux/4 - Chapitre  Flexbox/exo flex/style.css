@@ -1,0 +1,36 @@
+*{
+    background: black;
+    color: white;
+}
+body{
+    color: black;
+}
+header , .section1{
+    height: 60px;
+    background-color: burlywood;
+    padding: 5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: larger;
+    padding-top: 40px;
+    margin-bottom: 7px;
+    border-radius: 30px;
+}
+.section1{
+    background-color: rgb(0, 128, 128);
+   
+}
+.section2{
+    display: flex;
+    justify-content: space-around;
+    
+
+}.mini-section{
+    width: 30%;
+    padding: 2px;
+    border-radius: 30px;
+}
+img{
+    border-radius: 30px;
+}    
